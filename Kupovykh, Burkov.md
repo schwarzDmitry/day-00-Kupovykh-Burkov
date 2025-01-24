@@ -6,7 +6,7 @@
 ```sql
 SELECT * FROM person WHERE address = 'Kazan' 
 ```
-![alt text](image.png)
+![alt text](0.png)
 
 
 #### Exercise 01 - First steps into SQL world
@@ -16,7 +16,7 @@ SELECT * FROM person WHERE address = 'Kazan'
 SELECT * FROM person WHERE address='Kazan' AND gender='female'
 ORDER BY name
 ```
-![alt text](image1.png)
+![alt text](1.png)
 
 #### Exercise 02 - First steps into SQL world
 \
